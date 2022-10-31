@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/task1.git/static/css/main.a572e537.css",
+    "main.js": "/task1.git/static/js/main.7fa31c04.js",
+    "static/media/sylviaR.png": "/task1.git/static/media/sylviaR.62d951cfd112ca2c5583.png",
+    "index.html": "/task1.git/index.html",
+    "main.a572e537.css.map": "/task1.git/static/css/main.a572e537.css.map",
+    "main.7fa31c04.js.map": "/task1.git/static/js/main.7fa31c04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a572e537.css",
+    "static/js/main.7fa31c04.js"
+  ]
+}
